@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/first-react/static/css/main.68dc4e22.chunk.css",
+    "main.js": "/first-react/static/js/main.8d40f831.chunk.js",
+    "main.js.map": "/first-react/static/js/main.8d40f831.chunk.js.map",
+    "runtime-main.js": "/first-react/static/js/runtime-main.d8c86665.js",
+    "runtime-main.js.map": "/first-react/static/js/runtime-main.d8c86665.js.map",
+    "static/js/2.95aeb6d6.chunk.js": "/first-react/static/js/2.95aeb6d6.chunk.js",
+    "static/js/2.95aeb6d6.chunk.js.map": "/first-react/static/js/2.95aeb6d6.chunk.js.map",
+    "static/js/3.e43698fd.chunk.js": "/first-react/static/js/3.e43698fd.chunk.js",
+    "static/js/3.e43698fd.chunk.js.map": "/first-react/static/js/3.e43698fd.chunk.js.map",
+    "index.html": "/first-react/index.html",
+    "static/css/main.68dc4e22.chunk.css.map": "/first-react/static/css/main.68dc4e22.chunk.css.map",
+    "static/js/2.95aeb6d6.chunk.js.LICENSE.txt": "/first-react/static/js/2.95aeb6d6.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/first-react/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8c86665.js",
+    "static/js/2.95aeb6d6.chunk.js",
+    "static/css/main.68dc4e22.chunk.css",
+    "static/js/main.8d40f831.chunk.js"
+  ]
+}
